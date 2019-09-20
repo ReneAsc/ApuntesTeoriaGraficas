@@ -1,0 +1,25 @@
+#+title: Apuntes de gráficas
+#+author: René Velázquez
+
+* Definición de gráfica
+
+Una gráfica \(G\) consta de dos conjuntos, uno llamado el conjunto de
+vértices y otro llamado el conjunto de aristas.
+
+
+** Vértices y aristas
+
+** Orden y tamaño
+
+** Gráficas regulares
+
+*** Gráficas cúbicas
+
+** Isomorfismo de gráficas
+
+* Complemento de una gráfica
+
+* El teorema fundamental
+
+
+
